@@ -14,7 +14,7 @@ class TaskManagerTest extends TestCase
     public function test_empty_task_list_and_add_form_load(): void
     {
         $this->get('/')->assertRedirect('/tasks');
-        $this->get('/tasks')->assertOk()->assertSee('Add Task');
+        $this->get('/tasks')->assertOk()->assertSee('Add New Task');
         $this->get('/tasks/create')->assertOk()->assertSee('name="_token"', false);
     }
 
