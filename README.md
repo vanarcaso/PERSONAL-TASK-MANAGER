@@ -58,21 +58,26 @@ Technologies Used
 
 
 3. Task Successfully Created
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2f16d25d-e5c0-44d7-bed1-816ba875afd6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/472ec8ed-c623-4a0a-b650-0be8ebd83d58" />
+
 
 
 
 4. Edit Task Page
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/02340f81-5169-48c8-bcf0-04c7cce8b599" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e612ef80-64db-4f9e-abc8-bedab8305273" />
+
 
 
 5. Task Successfully Edited
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e1179839-a872-4b96-bf02-968c79446445" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c4207c9a-f7b2-4a57-b13a-490277ca54fe" />
+
 
 
 6. Task Status Updated from Pending to Completed
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5406ae0b-e2f7-4d7a-b32f-7e1b5e97eaf0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9e72c795-9606-44cc-b3f6-e367b4aa3006" />
+
 
 
 7. Task Successfully Deleted
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8fd7ecf-59ff-4b33-8b9e-866c35f49880" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/99307285-e3ea-4572-b570-96b5e5c0a509" />
+
