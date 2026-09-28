@@ -54,7 +54,7 @@ Technologies Used
 
 2. Add Task Page
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca4247e7-3cc1-4247-916c-ce3f324b0bc3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/442fc7b6-4146-4566-957a-acbcaa44e310" />
 
 
 3. Task Successfully Created
