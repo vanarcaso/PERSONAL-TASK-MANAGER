@@ -47,7 +47,8 @@ Technologies Used
 
 
 1. Dashboard
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8ca1a53f-9e66-40ef-ba86-6e4cb4028ab4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3ed3d041-e4af-411b-a097-8816531ffdb6" />
+
 
 
 
